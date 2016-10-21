@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sua file robots.txt
